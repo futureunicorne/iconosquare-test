@@ -1,0 +1,8 @@
+build
+node_modules
+.git
+.huskyrc
+.next
+.eslintrc.js
+postcss.config.js
+tailwind.config.js

@@ -1,0 +1,12 @@
+build
+out
+public
+node_modules
+.git
+.next
+.huskyrc
+.eslintrc.js
+.prettierrc.js
+
+yarn.lock
+package-lock.json
